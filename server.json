@@ -1,10 +1,10 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
-  "name": "io.github.specshield26/specshield-mcp-server",
+  "name": "io.github.specshield-io/specshield-mcp-server",
   "description": "The API-change deploy gate for AI coding agents. Read-only breaking-change detection.",
   "version": "1.1.0",
   "repository": {
-    "url": "https://github.com/specshield26/specshield-mcp-server",
+    "url": "https://github.com/specshield-io/specshield-mcp-server",
     "source": "github"
   },
   "packages": [

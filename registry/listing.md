@@ -6,7 +6,7 @@ Distribution is the point of this phase. Treat listing as a launch. Shared copy 
 **Package:** `specshield-mcp-server`
 **Install:** `npx -y specshield-mcp-server`
 **Homepage:** https://specshield.io
-**Repository:** https://github.com/specshield26/specshield-mcp-server
+**Repository:** https://github.com/specshield-io/specshield-mcp-server
 **Categories/tags:** `api`, `openapi`, `developer-tools`, `testing`, `ci-cd`, `contract-testing`
 **One-liner:** The API-change deploy gate for AI coding agents — "is it safe to ship this API change to my consumers?" Read-only.
 
@@ -67,7 +67,7 @@ by name within a section; legend: `📇` = TypeScript, `☁️` = cloud/SaaS-bac
 **Entry line (paste this):**
 
 ```markdown
-- [specshield26/specshield-mcp-server](https://github.com/specshield26/specshield-mcp-server) 📇 ☁️ - The API-change deploy gate for AI coding agents: "is it safe to ship this API change to my consumers?" Analyze-only OpenAPI breaking-change detection + migration guides.
+- [specshield-io/specshield-mcp-server](https://github.com/specshield-io/specshield-mcp-server) 📇 ☁️ - The API-change deploy gate for AI coding agents: "is it safe to ship this API change to my consumers?" Analyze-only OpenAPI breaking-change detection + migration guides.
 ```
 
 > ⚠️ Replace the URL with wherever you actually push the repo (the `specshield/…`
